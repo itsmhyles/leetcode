@@ -1,0 +1,14 @@
+class Solution(object):
+    def generateMatrix(self, n):
+        """
+        :type n: int
+        :rtype: List[List[int]]
+        """
+        matrix = [[] for _ in range(n)]
+        if n == 1:
+            return matrix
+        else:
+            
+
+
+        
