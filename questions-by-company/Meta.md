@@ -1,4 +1,4 @@
-```markdown
+
 # Meta (Facebook) LeetCode Questions - Last 30 Days
 
 > Last Updated: November 05, 2024
